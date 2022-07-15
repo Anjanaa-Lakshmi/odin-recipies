@@ -1,2 +1,2 @@
-This is a simple recipie pag made using HTML & CSS as a part of odin project
+This is a simple recipie page made using HTML & CSS as a part of odin project
 
